@@ -2,12 +2,9 @@
     function fontConection(){
         echo <<<END
         @font-face {
-            /* TextGuard. An*/
+            /* TextGuard */
             font-family: TextGuard; /* based on Roboto by Google*/
             src: url(keyfont.ttf); 
-        }
-        *{
-            font-family: keyfont;
         }
         END;
     };
