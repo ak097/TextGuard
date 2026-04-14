@@ -71,7 +71,7 @@ server/
 ,── textguard.php # Library with functions
 ├── keyfont.ttf # Custom font (based on Roboto)
 └── keyTable.json # Character Replacement table
-``
+```
 
 
 ## Note
